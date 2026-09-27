@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+bcrypt
+yt-dlp
+pydantic-settings
+librosa
+numpy
+pydub
+sqlalchemy
+python-jose[cryptography]
+mlx-whisper
+mlx-lm
+torch
+soundfile
